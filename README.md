@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Beijar
-- 👀 I’m interested in ... unity baby
-- 🌱 I’m currently learning ... unity baby
-- 💞️ I’m looking to collaborate on ... unity baby
-- 📫 How to reach me ... pls dont
+- 👀 I’m interested in ... game development
+- 🌱 I’m currently learning ... Unity
+- 💞️ I’m looking to collaborate on ... Unity projects
 
 <!---
 Beijar/Beijar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
